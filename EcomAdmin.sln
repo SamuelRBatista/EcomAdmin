@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcomAdmin", "EcomAdmin.csproj", "{5EBF5D7E-99AD-1E38-CF34-EDE2FCB39FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EBF5D7E-99AD-1E38-CF34-EDE2FCB39FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBF5D7E-99AD-1E38-CF34-EDE2FCB39FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBF5D7E-99AD-1E38-CF34-EDE2FCB39FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBF5D7E-99AD-1E38-CF34-EDE2FCB39FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31933D67-44AD-4DFF-88AB-24929D1ECB6B}
+	EndGlobalSection
+EndGlobal
